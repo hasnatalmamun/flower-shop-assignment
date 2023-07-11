@@ -95,7 +95,7 @@
     font-family: Lato;
 }
 
-.flower-img-inner {
+.flower-inner-img {
     text-align: center;
 }
 
@@ -261,10 +261,14 @@
     text-align: center;
 }
 
+/* extra section */
+
+
+
 /* footer section */
 
 footer {
-    background-color: #111010;
+    background-color: black;
     color: white;
     height: 200px;
     align-items: center;
