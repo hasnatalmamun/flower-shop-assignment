@@ -89,7 +89,7 @@
     background-color: rgba(71, 125, 17, 0.15);
 }
 
-.archor-flower {
+.anchor-flower {
     color: #272727;
     text-align: center;
     font-family: Lato;
@@ -209,7 +209,7 @@
 
 /* Get The Latest Deals section */
 .last-section-container {
-    background-image: url(../);
+    background-image: url(../Flower-Asset/Rectangle\ 9.png);
     background-repeat: no-repeat;
     height: 100vh;
     background-size: contain;
